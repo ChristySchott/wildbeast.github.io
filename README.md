@@ -21,7 +21,6 @@ Esse projeto foi desenvolvido no curso Grid da Origamid, logo a principal ferram
 Layout: 
 
 ![Layout do projeto](https://github.com/ChristySchott/wildbeast.github.io/blob/master/layout/layout1.png)
-![Layout do projeto](https://github.com/ChristySchott/wildbeast.github.io/blob/master/layout/layout3.png)
 ![Layout do projeto](https://github.com/ChristySchott/wildbeast.github.io/blob/master/layout/layout2.png)
 
 
